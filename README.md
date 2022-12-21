@@ -8,7 +8,7 @@
 - Buenas practicas en el uso de JS 😎
 
 
-- Multiples retos planteados en el curso, los cuales sirven para mejorar la logica de programación en JS  😯
+- Multiples retos planteados en el curso, los cuales sirven para mejorar la lógica de programación en JS  😯
 
 
 Posdata: Si quieres aprender los conceptos basicos de JS ,  por aquí te dejo el link del curso: [Curso-Básico-Javascript](https://platzi.com/cursos/basico-javascript/ "Curso-Básico-javascript") 💚
